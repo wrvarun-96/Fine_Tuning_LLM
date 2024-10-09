@@ -3,7 +3,7 @@
 ### Fine-Tuning BERT and T5 Models on Custom Data
 I have fine-tuned popular NLP models such as BERT and T5 on custom datasets, applying advanced techniques to optimize their performance for domain-specific tasks.
 
-###Completing and uploading this week: 
+## Completing and uploading this week: 
 
 ### Fine-Tuning Open-Source Models
 I have successfully fine-tuned open-source models like LLAMA, Mistral, and Zephyr for various use cases. Using Parameter Efficient Fine-Tuning (PEFT) methods like LoRA and QLoRA, I achieved powerful results with reduced computational requirements. The models and results will be uploaded later this week.
