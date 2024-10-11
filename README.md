@@ -1,7 +1,7 @@
 ## Current Projects and Achievements
 
-### Fine-Tuning BERT and T5 Models on Custom Data
-I have fine-tuned popular NLP models such as BERT and T5 on custom datasets, applying advanced techniques to optimize their performance for domain-specific tasks.
+### Fine-Tuning BERT Models on Custom Data
+I have fine-tuned popular NLP models such as BERT on custom datasets, applying advanced techniques to optimize their performance for domain-specific tasks. I have also written blog on fine-tuning on LLMs. Will publish it shortly.
 
 ## Completing and uploading this week: 
 
