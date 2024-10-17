@@ -4,7 +4,7 @@
 I have fine-tuned popular NLP models such as BERT on custom datasets, applying advanced techniques to optimize their performance for domain-specific tasks. I have also written blog on fine-tuning on LLMs. Will publish it shortly.
 
 ### Fine-Tuning Open-Source Models
-I have successfully fine-tuned open-source models like LLAMA, Mistral, for various use cases. Using Parameter Efficient Fine-Tuning (PEFT) methods like LoRA and QLoRA, I achieved powerful results with reduced computational requirements.
+I have successfully fine-tuned open-source models like LLAMA(Quantized and Non-Quantized), Mistral and Zephyer for various use cases. Using Parameter Efficient Fine-Tuning (PEFT) methods like LoRA and QLoRA, I achieved powerful results with reduced computational requirements.
 
 ## Completing and uploading this week: 
 
