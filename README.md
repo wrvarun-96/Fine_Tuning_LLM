@@ -8,8 +8,5 @@ I have successfully fine-tuned open-source models like LLAMA(Quantized and Non-Q
 
 ## Completing and uploading this week: 
 
-### Instruction Fine-Tuning for OpenAI Models
-I have fine-tuned OpenAI’s GPT-3.5 Turbo and GPT-4 models, integrating APIs to customize the models for specific domains and tasks. These optimized models and insights will be available shortly.
-
 ### Reinforcement Learning from Human Feedback (RLHF) and Optimization Methods
 I explored RLHF to improve language model performance, implementing advanced optimization techniques like Direct Preference Optimization (DPO) and Proximal Policy Optimization (PPO). These efforts have resulted in enhanced model quality, and the findings will be shared soon.
