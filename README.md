@@ -8,8 +8,9 @@ I have successfully fine-tuned open-source models like LLAMA(Quantized and Non-Q
 
 ### Fine-Tuned Mistral Models(7B_Instruct and Small_Instruct)
 I performed fine-tuning on mistral 4bit models and compared the results based on time and memory consumption using Unsloth, and GPTQ models. Below barchart shows the result i have gained.
+![Unknown](https://github.com/user-attachments/assets/c01a7000-6f32-4ebc-80a1-c57a02df1c12)
 
-![comparison](https://github.com/user-attachments/assets/d7efae5f-eac3-42ac-95c2-124d8ef337fa)
+
 
 ## Completing and uploading this week: 
 
